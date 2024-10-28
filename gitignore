@@ -9,7 +9,7 @@ dist/
 
 # Compiled Java class files
 *.class
-
+*.ipynb
 # Compiled Python bytecode
 *.py[cod]
 
